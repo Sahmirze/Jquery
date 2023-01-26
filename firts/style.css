@@ -28,3 +28,12 @@
 .color{
 	color: white;
 }
+#write{
+	padding: 20px;
+	height: 50px;
+	background-color: yellow;
+	border: none;
+	border-radius: 5px;
+	margin: 5px;
+	box-shadow: 0 0 10px black;
+}
